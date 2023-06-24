@@ -1,5 +1,6 @@
 Include/
 Lib/
+report/
 Scripts/
 share/
 pyvenv.cfg
